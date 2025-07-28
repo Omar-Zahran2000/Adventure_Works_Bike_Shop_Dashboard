@@ -33,7 +33,7 @@ The dataset is derived from AdventureWorks, a simulated business dataset with:
 ###  Executive Dashboard
 - Total revenue, profit, returns, and return rate
 - Weekly order trends from 2020–2022
-![alt text](<2. Exec Dashboard.JPG>)
+![alt text](<Maven Market.GIF 1.gif>)
 
 ###  Product Detail (Drill-through)
 - Trends by product: orders, profit, revenue
