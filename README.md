@@ -61,6 +61,7 @@ The dataset is derived from AdventureWorks, a simulated business dataset with:
 ###  Decomposition Tree
 - Drill into return rate by category > subcategory > product
 Dashboard Screenshots&GIFS/8. Q&A.JPG
+![alt text](<9. Decomposition Tree.JPG>)
 
 ##  Key Insights
 
