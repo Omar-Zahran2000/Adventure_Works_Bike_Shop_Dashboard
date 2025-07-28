@@ -56,11 +56,11 @@ The dataset is derived from AdventureWorks, a simulated business dataset with:
 ###  Q&A
 - Natural language visual generation (e.g., “orders by month in 2021”)
 - Responsive visual cards and charts
-![alt text](<4. Map-1.JPG>)
+![alt text](<8. Q&A.JPG>)
 
 ###  Decomposition Tree
 - Drill into return rate by category > subcategory > product
-![alt text](<4. Map-2.JPG>)
+Dashboard Screenshots&GIFS/8. Q&A.JPG
 
 ##  Key Insights
 
