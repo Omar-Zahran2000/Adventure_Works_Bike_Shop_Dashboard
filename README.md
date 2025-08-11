@@ -33,35 +33,35 @@ The dataset is derived from AdventureWorks, a simulated business dataset with:
 ###  Executive Dashboard
 - Total revenue, profit, returns, and return rate
 - Weekly order trends from 2020–2022
-![alt text](<Maven Market.GIF 1.gif>)
+![Maven Market GIF](images/Maven%20Market.GIF%201.gif)
 
 ###  Product Detail (Drill-through)
 - Trends by product: orders, profit, revenue
 - User-defined price adjustment
 - Monthly profit with line and area charts
-![alt text](<5. Product Detail (1).JPG>)
+![Product Detail (1)](images/5.%20Product%20Detail%20(1).jpg)
 
 ###  Customer Detail (Drill-through)
 - Top 100 customers by order volume and revenue
 - Demographics by occupation and income
 - Dynamic metric switch (via field parameter)
 - Most valuable customer over time
-![alt text](<6. Customer Detail.JPG>)
+![Customer Detail](images/6.%20Customer%20Detail.jpg)
 
 ###  Map View
 - Total orders by country (United States, UK, Canada, France, Australia)
 - Region slicer to filter map by continent
-![alt text](<4. Map.JPG>)
+![Map](images/4.%20Map.jpg)
 
 ###  Q&A
 - Natural language visual generation (e.g., “orders by month in 2021”)
 - Responsive visual cards and charts
-![alt text](<8. Q&A.JPG>)
+![Q&A](images/8.%20Q&A.jpg)
 
 ###  Decomposition Tree
 - Drill into return rate by category > subcategory > product
 Dashboard Screenshots&GIFS/8. Q&A.JPG
-![alt text](<9. Decomposition Tree.JPG>)
+![Decomposition Tree](images/9.%20Decomposition%20Tree.jpg)
 
 ##  Key Insights
 
