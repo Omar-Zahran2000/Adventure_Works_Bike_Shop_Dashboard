@@ -39,29 +39,29 @@ The dataset is derived from AdventureWorks, a simulated business dataset with:
 - Trends by product: orders, profit, revenue
 - User-defined price adjustment
 - Monthly profit with line and area charts
-![Product Detail (1)](images/5.%20Product%20Detail%20(1).jpg)
+![Product Detail (1)](images/5.%20Product%20Detail%20(1).JPG)
 
 ###  Customer Detail (Drill-through)
 - Top 100 customers by order volume and revenue
 - Demographics by occupation and income
 - Dynamic metric switch (via field parameter)
 - Most valuable customer over time
-![Customer Detail](images/6.%20Customer%20Detail.jpg)
+![Customer Detail](images/6.%20Customer%20Detail.JPG)
 
 ###  Map View
 - Total orders by country (United States, UK, Canada, France, Australia)
 - Region slicer to filter map by continent
-![Map](images/4.%20Map.jpg)
+![Map](images/4.%20Map.JPG)
 
 ###  Q&A
 - Natural language visual generation (e.g., “orders by month in 2021”)
 - Responsive visual cards and charts
-![Q&A](images/8.%20Q&A.jpg)
+![Q&A](images/8.%20Q&A.JPG)
 
 ###  Decomposition Tree
 - Drill into return rate by category > subcategory > product
 Dashboard Screenshots&GIFS/8. Q&A.JPG
-![Decomposition Tree](images/9.%20Decomposition%20Tree.jpg)
+![Decomposition Tree](images/9.%20Decomposition%20Tree.JPG)
 
 ##  Key Insights
 
